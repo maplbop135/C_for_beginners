@@ -1,6 +1,5 @@
 /*
 
-#02. Hello World!
 "#02.hello_world.c"
 
 input: none
