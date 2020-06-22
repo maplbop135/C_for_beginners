@@ -3,7 +3,7 @@ Created by: Go keeper
 file name: "#03.intAdder.c"
 Blog link:
     https://blog.naver.com/maplbop135/222009227886
-
+    https://github.com/maplbop135/C_for_beginners/blob/master/%2303.intAdder.c
 
 input :
     a, b
